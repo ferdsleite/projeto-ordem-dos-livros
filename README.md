@@ -48,7 +48,7 @@ git clone [https://github.com/ferdsleite/projeto-ordem-dos-livros.git]
 
 2. Navigate to the project folder:
 ```
-cd [project-name]
+cd [ordem-dos-livros]
 ```
 
 3. Install dependencies:
@@ -75,7 +75,7 @@ npm run dev
 - [TailwindCSS Typography](https://github.com/tailwindlabs/tailwindcss-typography)
 
 ## 💎 Helpful Links
-- [Svelte](https://svelte.dev/docs/kit/introduction)
+- [Svelte Documentation](https://svelte.dev/docs/kit/introduction)
 
 ## 🤗 Connect with me
 You can get in touch with me on:
