@@ -6,8 +6,7 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
 <p align="center">
-<img src="" alt="screenshot" width="400px"></img>
-<img src="" alt="web app working" width="400px"></img>
+<img src="assets/ordem-livros-home.jpg" alt="screenshot home" width="700px"></img>
 </p>
 
 ## 💡 Project Overview
@@ -33,11 +32,18 @@ With a background in **web development (WordPress), technical SEO, and digital p
 - Reinforced problem-solving and UI implementation skills.  
 - Continued building a portfolio that reflects both learning and technical evolution.
 
+## 📸 Screenshots
+<p align="center">
+<img src="assets/ordem-livros-livros.jpg" alt="screenshot pagina livros" width="300px"></img>
+<img src="assets/ordem-livros-autores.jpg" alt="screenshot pagina autores" width="300px"></img>
+<img src="assets/ordem-livros-single-autor.jpeg" alt="screenshot pagina autor" width="300px"></img>
+</p>
+
 ## 🖥️ How to run
 
 1. Clone the repository:  
 ```bash
-git clone [repo URL]
+git clone [https://github.com/ferdsleite/projeto-ordem-dos-livros.git]
 ```
 
 2. Navigate to the project folder:
