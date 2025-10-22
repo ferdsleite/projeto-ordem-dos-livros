@@ -1,7 +1,7 @@
 # Ordem dos Livros 📚
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
@@ -22,7 +22,7 @@ This project was developed as part of my ongoing journey transitioning into **fr
 
 It was created as a deliverable for the **Formação.DEV**, where I’m currently studying full-time to deepen my technical skills and build a strong, practical portfolio.
 
-The main goal of this project was to apply and strengthen my knowledge of **Svelte, TypeScript and TailwindCSS**.  
+The main goal of this project was to apply and strengthen my knowledge of **Svelte, HTML, JavaScript and TailwindCSS**.  
 It represents my commitment to learning through hands-on experience and delivering clean, functional, and user-focused applications.
 
 With a background in **web development (WordPress), technical SEO, and digital project management**, I combine fresh technical skills with a solid understanding of how design, functionality, and performance work together in real-world web environments.
@@ -66,7 +66,6 @@ npm run dev
 | Technology | Purpose | 
 | :--- | :--- | 
 | **Svelte** | UI Framework for front-end development | 
-| **TypeScript** | Type safety and improved developer experience. | 
 | **Tailwind CSS** | Utility-first CSS framework for rapid and responsive styling. | 
 
 ## ⭐ Main Dependencies
