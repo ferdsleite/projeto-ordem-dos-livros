@@ -10,7 +10,7 @@
 </p>
 
 ## 💡 Project Overview
-**Ordem dos Livros** is a modern and interactive web application designed for literature enthusiasts who want to explore detailed information about authors, books, and literary data — as well as follow the chronological or publication order of books within a series.
+**Ordem dos Livros** is a modern and interactive desktop web application designed for literature enthusiasts who want to explore detailed information about authors, books, and literary data — as well as follow the chronological or publication order of books within a series.
 
 The project allows users to browse organized book lists, access full author biographies, and read comprehensive reviews that offer valuable insights into each work. 
 
