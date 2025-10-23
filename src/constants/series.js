@@ -80,7 +80,7 @@ const series = [
         autor: autores[0],
         ano: 2016,
         ordem: 8,
-        imagem: "https://rocco.com.br/app/uploads/2024/04/9786555322682.jpg",
+        imagem: "https://m.media-amazon.com/images/I/A1KCc5VBFYL.jpg",
         link: "https://www.amazon.com.br/Harry-Potter-Crian%C3%A7a-Amaldi%C3%A7oada-Parte/dp/8532530435",
       },
     ],
