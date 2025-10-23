@@ -76,12 +76,15 @@ npm run dev
 ## 💎 Helpful Links
 - [Svelte Documentation](https://svelte.dev/docs/kit/introduction)
 
+## 🧑🏻‍💻 Preview
+- 🔗 **Live Demo**: [Ordem dos Livros - Project Deploy](https://ordemdoslivros-project.netlify.app/)
+- 🔗 **GitHub Repo**: https://github.com/ferdsleite/projeto-ordem-dos-livros
+
 ## 🤗 Connect with me
 You can get in touch with me on:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaleitedepaula)
 
-Project Link: [https://github.com/ferdsleite/projeto-ordem-dos-livros](https://github.com/ferdsleite/projeto-ordem-dos-livros)
 
 
 -------
